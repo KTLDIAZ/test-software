@@ -1,0 +1,29 @@
+C:\Users\GALINDO'PC\Documents\Angular for .NET Developers\Chapter II\Ejercicios\Ejemplo 1\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\GALINDO'PC\Documents\Angular for .NET Developers\Chapter II\Ejercicios\Ejemplo 1\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\GALINDO'PC\Documents\Angular for .NET Developers\Chapter II\Ejercicios\Ejemplo 1\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\GALINDO'PC\Documents\Angular for .NET Developers\Chapter II\Ejercicios\Ejemplo 1\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\GALINDO'PC\Documents\Angular for .NET Developers\Chapter II\Ejercicios\Ejemplo 1\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\GALINDO'PC\Desktop\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\GALINDO'PC\Desktop\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\GALINDO'PC\Desktop\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\GALINDO'PC\Desktop\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\GALINDO'PC\Desktop\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\GALINDO'PC\Desktop\Clean Code\Condicionales\Example\before\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\GALINDO'PC\Desktop\Clean Code\Condicionales\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\GALINDO'PC\Desktop\Clean Code\Condicionales\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.pdb
+\\hkfsvr\Public\MergeCE\Clean Code\04 - Condicionales\Example\before\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe.config
+\\hkfsvr\Public\MergeCE\Clean Code\04 - Condicionales\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.exe
+\\hkfsvr\Public\MergeCE\Clean Code\04 - Condicionales\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.pdb
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\jaleman\Desktop\Clean Code S\07-04 - Condicionales\Referencias\Example\before\CleanCodeCondicionales\Condicionales\obj\Debug\Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\obj\Debug\Condicionales.csprojAssemblyReference.cache
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\KTLDIAZ\Downloads\Software II\tareas\Refactor\Condicionales\obj\Debug\Condicionales.pdb

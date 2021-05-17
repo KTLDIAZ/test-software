@@ -1,0 +1,53 @@
+    ======  ======
+    Time:2/4/2017 1:48:51 AM
+    Title: Initiate log
+    Message: 
+    Time:2/4/2017 1:48:51 AM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:2/4/2017 1:48:51 AM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:2/4/2017 1:48:51 AM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:2/4/2017 1:48:51 AM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:2/4/2017 1:48:51 AM
+    Title: LICENSER
+    Message: DS LEFT-234
+    Time:2/4/2017 1:48:51 AM
+    Title: LICENSER
+    Message: DT MARK PASSED-234.00:00:00
+    Time:2/4/2017 1:48:51 AM
+    Title: ILMValidate action
+    Message: LIC
+    Time:2/4/2017 1:48:52 AM
+    Title: Access to the path 'C:\ProgramData\Telerik\Hash.lic' is denied.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:2/4/2017 1:48:52 AM
+    Title: LICENSER - TGO
+    Message: Start
+    Time:2/4/2017 1:48:54 AM
+    Title: LICENSER - TGO
+    Message: Object reference not set to an instance of an object.
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering constructor for: Codealike.Client.VisualStudio.CodealikePackage
+    Entering constructor for: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    Entering Initialize() of: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    devenv.exe Information: 0 : Hierarchy Manager Created
+    devenv.exe Information: 0 : Hierarchy Manager MEF Satisfied
+    devenv.exe Information: 0 : EnvironmentStatusBar Manager Created
+    devenv.exe Information: 0 : TrackingServices.OnImportsSatisfied
+    devenv.exe Information: 0 : TrackingServices.RaceConditionMarker
+    devenv.exe Information: 0 : Exit-TrackingServices.OnImportsSatisfied
+    devenv.exe Information: 0 : Hierarchy Manager Clear Called
+    >>DocumentServiceBase.ctor
+    <<DocumentServiceBase.ctor
+
+    <<DocumentServiceBase.ctor
