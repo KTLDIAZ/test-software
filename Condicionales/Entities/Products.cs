@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Condicionales.Entities
 {
-    public enum ProductsCategory { drinks = "drinks" }
+    public class ProductsCategory 
+    {
+        public const string drinks = "drinks"; 
+    }
     public class Products
     {
         public string id { get; set; }

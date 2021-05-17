@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 namespace Condicionales.Entities
 {
     public enum StatusUser { Active = 1, Inactive = 2, Locked = 3 }
-    public enum ElderDiscount { elderly = 60}
-    public enum Discount { twenty = 0.2, zero = 0 }
+    public class ElderDiscount 
+    {
+        public const int elderly = 60;
+    }
+    static class  Discount 
+    {
+        public const int twenty = 02;
+        public const int zero = 0;
+    }
     public class Customer
     {
         public string id { get; set; }
@@ -48,22 +55,35 @@ namespace Condicionales.Entities
                 Data.Data.DataCustomer.Add(newCustomer);
             }
         }
-        
+
         public static void PrintCustomers()
         {
             foreach (var user in Data.Data.DataCustomer)
             {
-                Console.WriteLine("Name: {0} Age: {1}", user.name, user.age);
+                Console.WriteLine("userID: {0} Name: {1} Age: {2}", user.id, user.name, user.age);
             }
+        }
+
+        public static Customer getCustomer(string customerId)
+        {
+            Customer customer = new Customer();
+            foreach (var user in Data.Data.DataCustomer)
+            {
+                if (user.id == customerId)
+                {
+                    customer =  user;
+                    break;
+                }
+            }
+            return customer;
         }
     
     public virtual void CalculatePoints() { }
 
-        bool HasMontlyBonus(Customer customer)
+      public static bool HasMontlyBonus(Customer customer)
         {
             if (customer.age >= ElderDiscount.elderly
-                && customer.Status == StatusUser.Active
-                && customer.name.Contains("M"))
+                && customer.Status == StatusUser.Active)
             {
                 return true;
             }
