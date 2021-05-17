@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace Condicionales.Entities
 {
     public enum StatusUser { Active = 1, Inactive = 2, Locked = 3 }
+    public enum ElderDiscount { elderly = 60}
+    public enum Discount { twenty = 0.2, zero = 0 }
     public class Customer
     {
         public string id { get; set; }
@@ -28,14 +30,13 @@ namespace Condicionales.Entities
                     break;
                 }
             }
-            int elderAge = 60;
-            if (customerAge >= elderAge && !customerIsRegistered)
+            if (customerAge >= ElderDiscount.elderly && !customerIsRegistered)
             {
-                newCustomer.elderlyDiscount = 0.2;
+                newCustomer.elderlyDiscount = Discount.twenty;
             }
             else
             {
-                newCustomer.elderlyDiscount = 0;
+                newCustomer.elderlyDiscount = Discount.zero;
             }
 
             if (!customerIsRegistered)
@@ -60,8 +61,7 @@ namespace Condicionales.Entities
 
         bool HasMontlyBonus(Customer customer)
         {
-            int elderAge = 60;
-            if (customer.age >= elderAge
+            if (customer.age >= ElderDiscount.elderly
                 && customer.Status == StatusUser.Active
                 && customer.name.Contains("M"))
             {

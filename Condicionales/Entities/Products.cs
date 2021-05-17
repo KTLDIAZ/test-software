@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Condicionales.Entities
 {
+    public enum ProductsCategory { drinks = "drinks" }
     public class Products
     {
         public string id { get; set; }
@@ -30,7 +31,7 @@ namespace Condicionales.Entities
 
             if (!productIsRegistered)
             {
-                newProduct.payTax = category == "drinks" ? true : false;
+                newProduct.payTax = category == ProductsCategory.drinks ? true : false;
                 newProduct.id = randon.Next(1, 1000).ToString();
                 newProduct.name = name;
                 newProduct.category = category;
